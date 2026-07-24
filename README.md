@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**arunAK096/arunAK096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Arun Kumar**, a Computer Science student at **VŠB – Technical University of Ostrava**.
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Studying Computer Science at VŠB – Technical University of Ostrava
+* 🌱 Currently learning **Python**, **Data Structures & Algorithms**
+* 💡 Building a strong programming foundation one step at a time
+* 🚀 Sharing my learning journey through GitHub repositories
+
+### 📚 Learning Repositories
+
+📖 Notes & Practice: https://github.com/arunAK096/My-learning
+
+### 📫 Connect
+
+* GitHub: https://github.com/arunAK096
+
+---
+
+> Learning every day, one commit at a time.
